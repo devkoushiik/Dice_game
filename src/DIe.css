@@ -2,7 +2,7 @@
     font-size: 10em;
     padding: 0.25em;
     color : slateblue;
-  
+    filter: drop-shadow(30px 10px 4px #b7b7bd);
 }
 
 
