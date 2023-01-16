@@ -19,3 +19,26 @@
     75% { transform: translateX(-5%) rotate(-1deg); }
     100% { transform: translateX(0%); } 
  } 
+
+
+ @media only screen and (max-width: 600px) {
+    
+    .Die {
+        font-size: 5.3em;
+        padding: 0.25em;
+        color : slateblue;
+      
+    }
+    .Rolldice button{
+        width: 12em;
+        padding: 1.5em;
+        border: 0px;
+        border-radius: 10px;
+        color : white;
+        background-color: black;
+        margin-top: 3em;
+    
+        font-family: 'Work Sans', sans-serif;
+        font-size: 10px;
+    }
+  }
