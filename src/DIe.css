@@ -27,6 +27,9 @@
         font-size: 5.3em;
         padding: 0.25em;
         color : slateblue;
+
+        /* box-shadow: 7px 10px 12px -5px rgba(0,0,0,0.56); */
+        filter: drop-shadow(30px 10px 4px #b7b7bd);
       
     }
     .Rolldice button{
